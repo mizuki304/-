@@ -18,6 +18,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/itinerary">行程</Link>
             <Link href="/bookings">予約</Link>
             <Link href="/emergency">緊急</Link>
+                        <Link href="/login">ログイン</Link>
           </nav>
         </header>
         <main>{children}</main>
