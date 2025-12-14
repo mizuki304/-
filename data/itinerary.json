@@ -1,0 +1,54 @@
+[
+  {
+    "date": "2024-06-10",
+    "dayNote": "到着日：空港からホテルへ移動",
+    "entries": [
+      {
+        "startTime": "09:30",
+        "title": "羽田発 フライト",
+        "location": "羽田空港 第3ターミナル",
+        "note": "チェックインは出発の2時間前までに完了",
+        "links": [
+          { "label": "地図", "url": "https://maps.google.com" },
+          { "label": "eチケット", "url": "https://example.com/ticket" }
+        ]
+      },
+      {
+        "startTime": "18:00",
+        "title": "ホテルチェックイン",
+        "location": "Hotel Europa",
+        "note": "フロントでパスポート提示",
+        "links": [{ "label": "予約詳細", "url": "https://example.com/hotel" }]
+      }
+    ]
+  },
+  {
+    "date": "2024-06-11",
+    "dayNote": "街歩きと美術館巡り",
+    "entries": [
+      {
+        "startTime": "09:00",
+        "title": "朝食 & 集合",
+        "location": "ホテルロビー",
+        "note": "9:00に集合し徒歩で移動",
+        "links": [{ "label": "ロビー地図", "url": "https://example.com/lobby-map" }]
+      },
+      {
+        "startTime": "10:00",
+        "endTime": "13:00",
+        "title": "国立美術館",
+        "location": "Museum Central",
+        "links": [
+          { "label": "チケットQR", "url": "https://example.com/museum-ticket" },
+          { "label": "地図", "url": "https://maps.google.com" }
+        ]
+      },
+      {
+        "startTime": "18:30",
+        "title": "夕食",
+        "location": "La Piazza",
+        "links": [{ "label": "メニュー", "url": "https://example.com/menu" }]
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "type": "hotel",
+    "name": "Hotel Europa",
+    "datetime": "2024-06-10 18:00 チェックイン",
+    "reference": "ABC12345",
+    "proofUrl": "https://example.com/hotel",
+    "address": "123 Main St, City",
+    "note": "2部屋、朝食付き"
+  },
+  {
+    "type": "transport",
+    "name": "羽田 -> ロンドン フライト",
+    "datetime": "2024-06-10 11:30 出発",
+    "reference": "FLY-9981",
+    "proofUrl": "https://example.com/ticket",
+    "address": "羽田空港 第3ターミナル",
+    "note": "荷物は各自23kgまで"
+  },
+  {
+    "type": "activity",
+    "name": "国立美術館 入場",
+    "datetime": "2024-06-11 10:00",
+    "reference": "MUSE-221",
+    "proofUrl": "https://example.com/museum-ticket",
+    "note": "QRコードを提示"
+  }
+]

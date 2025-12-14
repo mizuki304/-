@@ -1,0 +1,19 @@
+[
+  {
+    "name": "山田 太郎",
+    "phone": "+81-90-1234-5678",
+    "emergencyPhone": "+44-20-0000-0000",
+    "insurance": "AIG 海外旅行保険 #AIG123456",
+    "embassy": "在英国日本国大使館 +44-20-7465-6500",
+    "passportCopyUrl": "https://example.com/passport",
+    "memo": "ホテル金庫にパスポート保管"
+  },
+  {
+    "name": "佐藤 花子",
+    "phone": "+81-80-2345-6789",
+    "emergencyPhone": "+44-20-1111-2222",
+    "insurance": "東京海上日動 #TM123456",
+    "embassy": "現地緊急: 999",
+    "memo": "LINEが一番繋がりやすい"
+  }
+]
